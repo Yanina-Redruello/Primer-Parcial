@@ -2,7 +2,7 @@
     {
         "nombre": "Al Parecer Todo Ha Sido una Trampa",
         "autor": "Airbag",
-        "id": 123,
+        "codigo": 123,
         "imagenPortada": "https://i.scdn.co/image/ab67616d0000b273536521e97eaf8309fe37ed34",
         "pistas": [
             {
@@ -74,7 +74,7 @@
     {
         "nombre": "folklore",
         "autor": "Taylor Swift",
-        "id": 111,
+        "codigo": 111,
         "imagenPortada": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
         "pistas": [
             {
